@@ -1,13 +1,19 @@
 
 
 ![Header](https://raw.githubusercontent.com/Robiul704/Robiul704/main/20231209_005523_0000.png)
-- 👋 Hi, I’m @Robiul704
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Robiul704/Robiul704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Frontend Development:
+
+Developing web applications using HTML, CSS, and JavaScript.
+Creating interactive and user-friendly interfaces using React.js.
+Managing web application navigation using React Router DOM.
+-Backend Development:
+
+Building server-side logic and RESTful APIs using Node.js and Express.js.
+Utilizing MongoDB for database storage and data modeling.
+-Cross-Origin Resource Sharing (CORS):
+
+Managing CORS to allow data permissions from different domain origins.
+-Web Application Routing:
+
+Using React Router DOM for direction, page loading, and maintaining state.
