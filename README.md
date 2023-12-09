@@ -2,7 +2,7 @@
 
 ![Header](https://raw.githubusercontent.com/Robiul704/Robiul704/main/20231209_005523_0000.png)
 
-# What I Do??
+# What I Do??!
 
 ## Frontend Developer:
 
@@ -23,20 +23,17 @@ Using React Router DOM for direction, page loading, and maintaining state.
 # My Skills
 [![My Skills](https://skillicons.dev/icons?i=mongodb,js,react,github,nodejs,nextjs,firebase,html,css,tailwind,vercel,vite,vscode,instagram,linkedin,netlify,regex,materialui,figma&theme=light)](https://skillicons.dev)
 
-# My Current Github Status
+# My Current Github Status!
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Robiul704&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-# Mostly Uses Language
+#  Most Used Languages!
 
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Robiul704/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
 
 
-# Theme 
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Robiul704}&theme={radical}
-[![GitHub Trends SVG](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Robiul704}&theme={radical})](https://githubtrends.io)
 
 
 
