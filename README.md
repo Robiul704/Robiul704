@@ -37,22 +37,25 @@ Using React Router DOM for direction, page loading, and maintaining state.
 
 ## 01. [Tech Store (Technology based website)](https://https://brand-shop-39abd.web.app/)
 • Email-Password and Google based authentication with Firebase and JWT.
+
 • Sellers can add and advertise products and buyers can book and wihlists Now products.
 ### Technology: React JS, React router Dom, Tailwind, Firebase, NodeJS, Vercel, MongoDB.
 
-☑️ [LIVE LINK](https://https://brand-shop-39abd.web.app/)
+## ☑️ [LIVE LINK](https://https://brand-shop-39abd.web.app/)
   
 ## 02.)[Service Provider(Products Selling Website](https://dimple-firebase-e6967.web.app/)
 • Email-Password and Google based authentication with Firebase and JWT.
-• Sellers can add and advertise products and buyers can book and wihlists Now products.
+
+• Company Provide services . customer can create account and they can buyes services.
 ### Technology: React JS, React router Dom, Tailwind, Firebase, NodeJS, Vercel, MongoDB.
-☑️ [LIVE LINK](https://dimple-firebase-e6967.web.app/)
+## ☑️ [LIVE LINK](https://dimple-firebase-e6967.web.app/)
 
 ## 03.[VisiTors (Blogs Website)](https://agni-2-31315.web.app/)
 • Email-Password and Google based authentication with Firebase and JWT
+
 • Users can add and read Blogs
 ### Technology: React JS, React router Dom, Tailwind, Firebase, NodeJS, Vercel, MongoDB.
-☑️ [LIVE LINK](https://agni-2-31315.web.app/)
+## ☑️ [LIVE LINK](https://agni-2-31315.web.app/)
 
 
 
