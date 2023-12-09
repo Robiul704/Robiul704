@@ -20,3 +20,7 @@ Managing CORS to allow data permissions from different domain origins.
 # Web Application Routing:
 
 Using React Router DOM for direction, page loading, and maintaining state.
+
+
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
