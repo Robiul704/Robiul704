@@ -29,8 +29,10 @@ Using React Router DOM for direction, page loading, and maintaining state.
 
 # Mostly Uses Language
 
-[![GitHub Trends SVG]([https://api.githubtrends.io/user/svg/avgupta456/langs](https://api.githubtrends.io/user/svg/Robiul704/langs?time_range=one_year&theme=classic))](https://githubtrends.io)
+[![GitHub Trends SVG]((https://api.githubtrends.io/user/svg/Robiul704/langs?time_range=one_year&theme=classic))](https://githubtrends.io)
 
 https://api.githubtrends.io/user/svg/Robiul704/langs?time_range=one_year&theme=classic
+https://api.githubtrends.io/user/svg/Robiul704/langs?time_range=one_year&theme=bright_lights
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Robiul704/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
 
 
