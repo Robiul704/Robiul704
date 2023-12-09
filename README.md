@@ -36,6 +36,7 @@ Using React Router DOM for direction, page loading, and maintaining state.
 # Theme 
 
 http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Robiul704}&theme={radical}
+[![GitHub Trends SVG](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Robiul704}&theme={radical})](https://githubtrends.io)
 
 
 
