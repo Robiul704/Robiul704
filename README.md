@@ -23,4 +23,4 @@ Using React Router DOM for direction, page loading, and maintaining state.
 
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=jhtml,css,avascript,react,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,html,css,tailwind,vercel,vite,vscode,js,react,firebase,github,nodejs,nextjs,instagram,linkedin,netlify,,regex,materialui,figma&theme=light)](https://skillicons.dev)
