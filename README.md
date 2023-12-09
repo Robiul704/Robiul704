@@ -33,7 +33,7 @@ Using React Router DOM for direction, page loading, and maintaining state.
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Robiul704/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
 
-# My Projects
+# 📈 My Projects
 
 ## 01. [Tech Store (Technology based website)](https://https://brand-shop-39abd.web.app/)
 • Email-Password and Google based authentication with Firebase and JWT.
@@ -43,7 +43,7 @@ Using React Router DOM for direction, page loading, and maintaining state.
 
 ## ☑️ [LIVE LINK](https://https://brand-shop-39abd.web.app/)
   
-## 02.)[Service Provider(Products Selling Website](https://dimple-firebase-e6967.web.app/)
+## 02.[Service Provider(Products Selling Website](https://dimple-firebase-e6967.web.app/)
 • Email-Password and Google based authentication with Firebase and JWT.
 
 • Company Provide services . customer can create account and they can buyes services.
