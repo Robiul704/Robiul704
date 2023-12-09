@@ -36,19 +36,23 @@ Using React Router DOM for direction, page loading, and maintaining state.
 # My Projects
 
 ## 01. Tech Store (Technology based website)
-•Email-Password and Google based authentication with Firebase and JWT.
-• Sellers can add and advertise products and buyers can book and wihlists Now products.
-### Technology: React JS, React router Dom, Tailwind, Firebase, NodeJS, Vercel, MongoDB.
-  
-## 02.Service Provider (Products Selling Website)
-•Email-Password and Google based authentication with Firebase and JWT.
+• Email-Password and Google based authentication with Firebase and JWT.
 • Sellers can add and advertise products and buyers can book and wihlists Now products.
 ### Technology: React JS, React router Dom, Tailwind, Firebase, NodeJS, Vercel, MongoDB.
 
-## VisiTors (Blogs Website)
+[LIVE LINK](https://https://brand-shop-39abd.web.app/)
+  
+## 02.Service Provider (Products Selling Website)
+• Email-Password and Google based authentication with Firebase and JWT.
+• Sellers can add and advertise products and buyers can book and wihlists Now products.
+### Technology: React JS, React router Dom, Tailwind, Firebase, NodeJS, Vercel, MongoDB.
+[LIVE LINK](https://dimple-firebase-e6967.web.app/)
+
+## 03. VisiTors (Blogs Website)
 • Email-Password and Google based authentication with Firebase and JWT
 • Users can add and read Blogs
 ### Technology: React JS, React router Dom, Tailwind, Firebase, NodeJS, Vercel, MongoDB.
+[LIVE LINK](https://agni-2-31315.web.app/)
 
 
 
