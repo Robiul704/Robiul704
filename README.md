@@ -23,7 +23,7 @@ Using React Router DOM for direction, page loading, and maintaining state.
 # My Skills
 [![My Skills](https://skillicons.dev/icons?i=mongodb,js,react,github,nodejs,nextjs,firebase,html,css,tailwind,vercel,vite,vscode,instagram,linkedin,netlify,regex,materialui,figma&theme=light)](https://skillicons.dev)
 
-# My Github Current Status
+# My Current Github Status
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Robiul704&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
