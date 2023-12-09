@@ -33,6 +33,24 @@ Using React Router DOM for direction, page loading, and maintaining state.
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Robiul704/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
 
+# My Projects
+
+## 01. Tech Store (Technology based website)
+•Email-Password and Google based authentication with Firebase and JWT.
+• Sellers can add and advertise products and buyers can book and wihlists Now products.
+### Technology: React JS, React router Dom, Tailwind, Firebase, NodeJS, Vercel, MongoDB.
+  
+## 02.Service Provider (Products Selling Website)
+•Email-Password and Google based authentication with Firebase and JWT.
+• Sellers can add and advertise products and buyers can book and wihlists Now products.
+### Technology: React JS, React router Dom, Tailwind, Firebase, NodeJS, Vercel, MongoDB.
+
+## VisiTors (Blogs Website)
+• Email-Password and Google based authentication with Firebase and JWT
+• Users can add and read Blogs
+### Technology: React JS, React router Dom, Tailwind, Firebase, NodeJS, Vercel, MongoDB.
+
+
 
 
 
